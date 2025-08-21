@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 Muhammad Abdullah</h1>  
+<h1 align="center">🛰️ Muhammad Abdullah</h1>  
 <p align="center">⚡ Network Engineer | 🌐 Cybernet ISP Specialist | 🛠 Network Deployment & Troubleshooting</p>  
 
 <p align="center">📍 Lahore, Pakistan | ✉️ abdullahawan9377@gmail.com | 📞 0321 7181985</p>  
