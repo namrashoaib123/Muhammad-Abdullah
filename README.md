@@ -1,8 +1,8 @@
-# 🧑‍💻 Muhammad Abdullah  
-⚡ Network Engineer | 🌐 Cybernet ISP Specialist | 🛠 Network Deployment & Troubleshooting  
+<p align="center">🧑‍💻 <b>Muhammad Abdullah</b></p>  
+<p align="center">⚡ Network Engineer | 🌐 Cybernet ISP Specialist | 🛠 Network Deployment & Troubleshooting</p>  
 
-📍 Lahore, Pakistan | ✉️ abdullahawan9377@gmail.com | 📞 +92 321 7181985  
-🔗 [LinkedIn](https://linkedin.com/in/abdullah-awan-42591a282)  
+<p align="center">📍 Lahore, Pakistan | ✉️ abdullahawan9377@gmail.com | 📞 0321 7181985</p>  
+<p align="center">🔗 <a href="https://linkedin.com/in/abdullah-awan-42591a282">LinkedIn</a></p>    
 
 ---
 
