@@ -48,7 +48,7 @@ Passionate about **network security, cloud networking, and automation**, with a 
 - 📡 **Network Monitoring & Troubleshooting**  
 - 🔗 **Routing Protocols**: RIP, OSPF, BGP  
 - 🖧 **Layer-2 Protocols**: VLAN, Inter-VLAN Routing, EtherChannel, STP, RSTP, PVSTP  
-- 🌐 **Basic Protocols**: DHCP, DNS, HTTP, SMTP, POP3, IMAP, ARP, IPsec, LACP, PAGP  
+- 🔌 **Basic Protocols**: DHCP, DNS, HTTP, SMTP, POP3, IMAP, ARP, IPsec, LACP, PAGP  
 - 🔒 **Basic VPN & Firewall Security**  
 
 ---
@@ -60,7 +60,7 @@ Passionate about **network security, cloud networking, and automation**, with a 
 
 ---
 
-<h2 align="center">📂 Connect With Me</h2>  
+<h2 align="center">🌐 Connect With Me</h2>  
 
 🔗 [LinkedIn](https://linkedin.com/in/abdullah-awan-42591a282)  
 ✉️ Email: abdullahawan9377@gmail.com  
